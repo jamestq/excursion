@@ -8,12 +8,29 @@ body{
     text-align: center;
 }
 
-.header{
+.header1{
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
+    margin-top: 20px;
 }
+
+.header2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin-top: 80px;
+}
+
+.description{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    margin-top: 30px;
+}
+
 
 .link{
     color: aquamarine;
@@ -21,4 +38,9 @@ body{
     text-decoration: underline;
     display: block;
     margin-top: 50px;
+}
+
+.video{
+    display: block;
+    margin: 20px auto;
 }
