@@ -1,3 +1,3 @@
 # excursion
 
-Codecademy Project Off-platform project
+Codecademy off-platform project
