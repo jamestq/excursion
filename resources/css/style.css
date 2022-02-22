@@ -8,27 +8,39 @@ body{
     text-align: center;
 }
 
-.header1{
+.header-style{
     font-family: Verdana;
+    color: white;
+}
+
+.header1{
     font-weight: normal;
     font-size: 50px;
-    color: white;
     margin-top: 20px;
 }
 
 .header2{
-    font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
-    color: white;
     margin-top: 80px;
 }
 
-.description{
+.header3{
+    font-weight: 300;
+    font-size: 42px;
+    margin-top: 20px;
+}
+
+
+.gray1{
     font-family: Verdana;
     font-size: 21px;
     color: gray;
     margin-top: 30px;
+}
+
+.footer{
+    text-align: right;
 }
 
 
@@ -43,4 +55,9 @@ body{
 .video{
     display: block;
     margin: 20px auto;
+}
+
+img{
+    margin: 20px auto;
+    display: block;
 }
